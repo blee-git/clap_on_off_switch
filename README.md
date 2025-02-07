@@ -1,7 +1,7 @@
 # Clap-clap on-off switch
 
 
-## Two pulse filtering and windowing logic
+## Single pulse generation from two consecutive pulses: signal processing and windowing
 
 
 ## Version 1.0
