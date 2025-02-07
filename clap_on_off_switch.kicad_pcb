@@ -8980,7 +8980,7 @@
 			)
 		)
 	)
-	(gr_text "Clap on/off switch v1.1"
+	(gr_text "Clap on/off switch v1.2"
 		(at 157.8 76.15 0)
 		(layer "F.SilkS")
 		(uuid "5cec55cc-5cd4-4123-acd6-85034bab98e6")
